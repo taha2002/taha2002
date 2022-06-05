@@ -48,7 +48,7 @@
  
 
   
-<div style="display: flex;">
+<div class="d-flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taha2002&hide=stars&count_private=true&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha2002&hide=javascript,html&langs_count=8&theme=tokyonight"/>
 </div>
