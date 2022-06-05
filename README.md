@@ -46,11 +46,10 @@
  
  <br />
  
-
-  
-<div class="d-flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taha2002&hide=stars&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha2002&hide=javascript,html&langs_count=8&theme=tokyonight"/>
+ <div align="center">
+  <a href="https://github.com/taha2002">
+  <img height="160em" width="457em" src="https://github-readme-stats.vercel.app/api?username=taha2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha2002&langs_count=8&theme=tokyonight&hide=javascript,html"/>
 </div>
 
 
