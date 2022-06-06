@@ -66,9 +66,10 @@ I'am Taha, I build and break stuff
   <a href="https://github.com/taha2002">
   <img height="160em" width="457em" src="https://github-readme-stats.vercel.app/api?username=taha2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
     <img height="160em" src="https://raw.githubusercontent.com/taha2002/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+        <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha2002&langs_count=8&theme=tokyonight&hide=javascript,html"/> -->
+
 </div>
  <br />
 
-    <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha2002&langs_count=8&theme=tokyonight&hide=javascript,html"/> -->
 
 ![Snake animation](https://github.com/taha2002/taha2002/blob/output/github-contribution-grid-snake.svg)
