@@ -1,75 +1,72 @@
-### Hi there 👋
+<!-- Header Banner -->
+<div align="center">
+  <img src="banner.svg" width="745" alt="Taha Bouras Header" />
+</div>
 
-I'am Taha, I build and break stuff
-- 🔭 I’m currently working as wordpress developer
-- 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about Wordpress,Django,PHP...
-- 📫 How to reach me: tahadevbou@gmail.com
+### <div align="center">Engineering resilient data extraction engines & robust web architectures 👨‍💻</div>
 
-<br>
-
-<!--- 
-- 👯 I’m looking to collaborate on 
-- ⚡ Fun fact: ...
-
-### Languages and Tools:
--->
-
-<div>
-
-
-<img align="left" alt="VueJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-  
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
-
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
-
-<img align="left" alt="ElectronJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="padding-right:10px;" />
-  
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<div>
 <br />
 
----
-
-
-  <a href="https://instagram.com/taha.bouras" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
- <a href="https://www.facebook.com/profile.php?id=100007522123943" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
- </a> 
-  <a href = "mailto:tahadevbou@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/taha-bouras/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <br />
- <br />
- 
- <div align="center">
-  <a href="https://github.com/taha2002">
-  <img height="160em" width="457em" src="https://github-readme-stats.vercel.app/api?username=taha2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
-    <img height="160em" src="https://raw.githubusercontent.com/taha2002/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-        <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha2002&langs_count=8&theme=tokyonight&hide=javascript,html"/> -->
+<!-- Intro Section -->
+<div align="center">
+  
+  Senior Full Stack Engineer, specializing in **High-Throughput Data Mining**, **Advanced WordPress Plugin Development**, and **AI-Powered Automation**. 
+  
+  I build systems capable of navigating complex bot-detection environments, integrating **AI SDKs** for business intelligence, and developing custom enterprise-grade WordPress solutions.
 
 </div>
- <br />
 
+<br />
 
-![Snake animation](https://github.com/taha2002/taha2002/blob/output/github-contribution-grid-snake.svg)
+<!-- Bullet Points -->
+- 🤖 **AI & Automation:** Developing intelligent agents using **LangChain**, **Vercel AI SDK**, and Next.js.
+- 🔌 **WordPress:** Engineering complex custom plugins, WooCommerce extensions, and secure API bridges.
+- 🛡️ **Specialization:** Protocol analysis, TLS fingerprinting, and bypassing advanced traffic-filtering mechanisms.
+- 🚀 **Core Stack:** Python, FastAPI, Next.js, TypeScript, & Docker.
+- 📫 **Reach me at:** [tahadevbou@gmail.com](mailto:tahadevbou@gmail.com)
+
+<br />
+
+<!-- Tech Stack Section -->
+<h3 align="center">🛠️ Technical Toolbox</h3>
+
+<div align="center">
+  <!-- Standard Stack via SkillIcons -->
+  <img src="https://skillicons.dev/icons?i=python,php,ts,js,fastapi,nextjs,react,supabase,mysql,postgres,redis,docker,linux,git,workers,nginx&perline=8" />
+</div>
+
+<div align="center">
+  <!-- Specialized Tools via Shields.io (Stable & Styled) -->
+  <br />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-F48420?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</div>
+
+<br />
+
+<!-- Stats Section - Snake Only -->
+<h3 align="center">📊 Contribution Activity</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/taha2002/taha2002/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<br />
+
+<!-- Footer / Socials -->
+<div align="center"> 
+  <a href="https://taha.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-taha.is--a.dev-58a6ff?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/taha-bouras/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tahadevbou@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
